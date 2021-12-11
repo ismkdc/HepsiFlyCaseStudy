@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiFlyCaseStudy", "src\HepsiFlyCaseStudy\HepsiFlyCaseStudy.csproj", "{7AE887A5-DF4F-4A11-8F7C-6DCCBD12E0C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiFlyCaseStudy.Test", "src\HepsiFlyCaseStudy.Test\HepsiFlyCaseStudy.Test.csproj", "{F757CE0D-8830-44FF-939C-2973B7B9DC44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE887A5-DF4F-4A11-8F7C-6DCCBD12E0C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE887A5-DF4F-4A11-8F7C-6DCCBD12E0C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE887A5-DF4F-4A11-8F7C-6DCCBD12E0C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE887A5-DF4F-4A11-8F7C-6DCCBD12E0C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F757CE0D-8830-44FF-939C-2973B7B9DC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F757CE0D-8830-44FF-939C-2973B7B9DC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F757CE0D-8830-44FF-939C-2973B7B9DC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F757CE0D-8830-44FF-939C-2973B7B9DC44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
